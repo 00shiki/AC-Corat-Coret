@@ -1,2 +1,2 @@
-#Ilmu Komputer - Universitas Negeri Jelek <br>
-Nyesel masuk sini
+# Ilmu Komputer - Universitas Negeri Jelek.
+    Nyesel masuk sini
